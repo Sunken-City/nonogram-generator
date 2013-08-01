@@ -1,0 +1,5 @@
+c:\users\acloudy\documents\visual studio 2010\Projects\Nonogram Generator\Nonogram Generator\bin\Debug\Nonogram Generator.exe
+c:\users\acloudy\documents\visual studio 2010\Projects\Nonogram Generator\Nonogram Generator\bin\Debug\Nonogram Generator.pdb
+c:\users\acloudy\documents\visual studio 2010\Projects\Nonogram Generator\Nonogram Generator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acloudy\documents\visual studio 2010\Projects\Nonogram Generator\Nonogram Generator\obj\x86\Debug\Nonogram Generator.exe
+c:\users\acloudy\documents\visual studio 2010\Projects\Nonogram Generator\Nonogram Generator\obj\x86\Debug\Nonogram Generator.pdb
